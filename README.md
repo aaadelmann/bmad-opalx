@@ -1,2 +1,2 @@
 # bmad-opalx
-Code-to-Code comprison
+Code-to-Code comparison between OPALX and BMAC
